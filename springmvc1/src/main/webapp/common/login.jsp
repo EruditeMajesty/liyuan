@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<title>XXX登录</title>
+<title>XXXX登录</title>
 <script src="../js/jquery-3.2.1.min.js"></script>
 
 <%-- 
